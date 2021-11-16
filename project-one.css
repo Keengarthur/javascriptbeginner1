@@ -1,0 +1,26 @@
+*{
+    box-sizing:border-box;
+    text-decoration:none;
+}
+body{
+    background:grey;
+    text-align:center;
+}
+.nav{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background:white;
+
+}
+.nav-div span{
+    margin-right:1rem;
+}
+
+.main-div{
+    width:80%;
+    background:grey;
+    margin:2rem auto;
+    color:white;
+    padding:1rem;
+}
